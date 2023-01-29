@@ -19,7 +19,7 @@
 ### 加入我们 
 有加入意向或有建设性想法的同学欢迎戳我联系，我们欢迎样本的扩大，从而更好地建设香樟：
 * QQ：943321359 
-* Wechat/[Github](www.github.com/JerryYin777)：JerryYin777 
+* Wechat/[Github](https://github.com/JerryYin777)：JerryYin777 
 * 个人邮箱：[congruiyin@email.ncu.edu.cn](mailto:congruiyin@email.ncu.edu.cn)
 * 线下：南昌大学信工楼A308
 
