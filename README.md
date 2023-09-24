@@ -1,11 +1,12 @@
 # 南昌大学AI/计算机 Cookbook
 
 ### 个人介绍
-我是JerryYin 殷骢睿，南昌大学人工智能实验班大二在读，在南昌大学GOODLAB工作，这是我的[个人主页](https://jerryyin777.github.io/)
+我是JerryYin 殷骢睿，南昌大学人工智能实验班大三在读，在南昌大学GOODLAB工作，这是我的[个人主页](https://jerryyin777.github.io/)
 
 ### 项目开发进度
 
-* 前端网站建设中...（顺带采购一个域名）
+* 网站地址：https://book.ncuscc.tech/
+* 内容建设中...（寻求ncu.edu.cn域名ing）
 
 ### 项目概览
 目前有一个在Gitee和Github两个平台上建立一个专门为南昌大学人工智能系、计算机系、软件工程系同学提供包括学习方法、学习资料、科研讯息、学习工具、保研经验的整合企划，在发挥开源精神的同时，减少大家信息搜集的时间浪费，高效率帮助大家学会提升自己，助理建设赛博共产主义，消除信息差的壁垒，目前项目处于整合信息上传到Github阶段，未来的方向是制作wiki、打造成Gitbook，参考[上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual/)，预计主要有5个板块，包括：
