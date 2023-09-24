@@ -23,3 +23,7 @@
 ## 人生经验篇
 
 * [人生经验](ren-sheng-jing-yan-pian/ren-sheng-jing-yan.md)
+
+## 找工就业篇
+
+* [选择与定位](zhao-gong-jiu-ye-pian/xuan-ze-yu-ding-wei.md)
